@@ -1,0 +1,6 @@
+F:\peng\ConverterNominalToTerbilang\Terbilang\obj\Debug\Terbilang.csprojAssemblyReference.cache
+F:\peng\ConverterNominalToTerbilang\Terbilang\obj\Debug\Terbilang.csproj.CoreCompileInputs.cache
+F:\peng\ConverterNominalToTerbilang\Terbilang\bin\Debug\Terbilang.dll
+F:\peng\ConverterNominalToTerbilang\Terbilang\bin\Debug\Terbilang.pdb
+F:\peng\ConverterNominalToTerbilang\Terbilang\obj\Debug\Terbilang.dll
+F:\peng\ConverterNominalToTerbilang\Terbilang\obj\Debug\Terbilang.pdb
